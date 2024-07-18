@@ -205,6 +205,26 @@ position: relative;
     padding-bottom: 20px;
 
 }
+
+
+@media(max-width:940px){
+    #part3 {
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+        
+       
+    }
+    .part3div{
+        width: fit-content;
+        padding: 15px;
+        margin: 10px;
+
+    }
+}
+
+
+
 .img4{
     height: 255px;
 }
